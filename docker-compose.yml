@@ -1,0 +1,12 @@
+version: '3'
+services:
+    hugo:
+        image: klakegg/hugo:ubuntu
+        container_name: hugo
+        command: server
+        volumes:
+            - ".:/src"
+        ports:
+            - "1313:1313"
+        tty: true
+        working_dir: /src

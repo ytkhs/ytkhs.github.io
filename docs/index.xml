@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ytkhs.me on github.io</title>
+    <link>https://ytkhs.me/</link>
+    <description>ytkhs.me on github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 24 Nov 2020 18:54:11 +0900</lastBuildDate>
+    
+    <atom:link href="https://ytkhs.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, World</title>
+      <link>https://ytkhs.me/articles/helloworld/</link>
+      <pubDate>Tue, 24 Nov 2020 18:54:11 +0900</pubDate>
+      
+      <guid>https://ytkhs.me/articles/helloworld/</guid>
+      <description>&lt;h2 id=&#34;the-quick-brown-fox-jumps-over-the-lazy-dog&#34;&gt;The quick brown fox jumps over the lazy dog&lt;/h2&gt;
+&lt;p&gt;いろはにほへと　ちりぬるを
+わかよたれそ　つねならむ
+うゐのおくやま　けふこえて
+あさきゆめみし　ゑひもせす&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;色は匂へど　散りぬるを
+我が世誰ぞ　常ならむ
+有為の奥山　今日越えて
+浅き夢見じ　酔ひもせず&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-php&#34; data-lang=&#34;php&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;hello, world&amp;#34;&lt;/span&gt;;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
