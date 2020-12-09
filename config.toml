@@ -1,7 +1,7 @@
-baseURL = "https://ytkhs.me/"
+baseURL = "https://note.ytkhs.me"
 DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
-title = "ytkhs.me on github.io"
+title = "note.ytkhs.me on github.io"
 theme = "anubis"
 publishDir = "docs" # for github pages
 paginate = 10

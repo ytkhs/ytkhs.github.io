@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ytkhs.me on github.io</title>
-    <link>https://ytkhs.me/</link>
-    <description>ytkhs.me on github.io</description>
+    <title>note.ytkhs.me on github.io</title>
+    <link>https://note.ytkhs.me/</link>
+    <description>note.ytkhs.me on github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 24 Nov 2020 18:54:11 +0900</lastBuildDate>
     
-    <atom:link href="https://ytkhs.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://note.ytkhs.me/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello, World</title>
-      <link>https://ytkhs.me/articles/helloworld/</link>
+      <link>https://note.ytkhs.me/articles/helloworld/</link>
       <pubDate>Tue, 24 Nov 2020 18:54:11 +0900</pubDate>
       
-      <guid>https://ytkhs.me/articles/helloworld/</guid>
+      <guid>https://note.ytkhs.me/articles/helloworld/</guid>
       <description>&lt;h2 id=&#34;the-quick-brown-fox-jumps-over-the-lazy-dog&#34;&gt;The quick brown fox jumps over the lazy dog&lt;/h2&gt;
 &lt;p&gt;いろはにほへと　ちりぬるを
 わかよたれそ　つねならむ
