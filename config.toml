@@ -3,7 +3,7 @@ DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
 title = "note.ytkhs.me on github.io"
 theme = "anubis"
-publishDir = "docs" # for github pages
+publishDir = "public"
 paginate = 10
 enableRobotsTXT = true
 
