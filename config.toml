@@ -1,7 +1,7 @@
 baseURL = "https://note.ytkhs.me"
 DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
-title = "📘 note.ytkhs.me"
+title = "note.ytkhs.me"
 theme = "anubis"
 publishDir = "public"
 paginate = 10
