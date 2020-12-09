@@ -92,7 +92,7 @@ nav,
 section,
 summary {
     display: block;
-}
+}	
 
 .container {
     max-width: 42em;
@@ -110,11 +110,6 @@ h1 {
 
 h2 {
     font-size: 1.2em;
-}
-
-h2.post-title a {
-    color: var(--link-state-color);
-    border-bottom: 1px solid var(--link-state-border-color);
 }
 
 h3 {
@@ -154,7 +149,7 @@ a.skip-main {
     z-index:-999;
 }
 
-a.skip-main:focus,
+a.skip-main:focus, 
 a.skip-main:active {
     left: auto;
     top: 0px;
@@ -264,6 +259,7 @@ header nav a {
 
 .common-header {
     padding-bottom: 1.5em;
+    border-bottom: thin solid var(--hr-color);
 }
 
 /* Pages */
@@ -503,6 +499,7 @@ ul.language-select > li, ul.footer-menu > li {
     padding: 0.5em 1em;
     font-size: 16px;
     border: none;
+    margin-right: 1em;
     margin-bottom: 1em;
 }
 
