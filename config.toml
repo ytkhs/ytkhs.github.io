@@ -34,3 +34,8 @@ dateFormat = '2006-01-02 15:04'
 paginationSinglePost = true
 style = 'light-without-switcher'
 readMore = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

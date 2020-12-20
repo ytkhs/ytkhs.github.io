@@ -179,9 +179,15 @@ p {
 
 hr {
     color: var(--hr-color);
-    background-color: var(--hr-color);
     border: none;
+    border-top: thin solid var(--hr-color);
+    margin-top: 2em;
+    margin-bottom: 2em;
     height: 1px;
+}
+
+.footnotes hr {
+    margin-bottom: 0em;
 }
 
 /* Header */
@@ -434,10 +440,16 @@ article figcaption {
 /* Footer */
 
 .common-footer {
-    border-top: thin solid var(--hr-color);
     padding-top: 1.5em;
     margin-top: 3em;
     font-size: 16px;
+}
+
+.common-footer hr {
+    border: none;
+    border-top: 3px dotted var(--hr-color);
+    padding: 0;
+    height: 1px;
 }
 
 .common-footer-bottom {
