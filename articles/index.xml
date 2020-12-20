@@ -13,7 +13,7 @@
 &lt;h3 id="blockquote-with-attribution">Blockquote with attribution&lt;/h3>
 &lt;blockquote>
 &lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br>
-— &lt;!-- raw HTML omitted -->Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;!-- raw HTML omitted -->&lt;/p>
+— &lt;cite>Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/cite>&lt;/p>
 &lt;/blockquote>
 &lt;h3 id="code-block">Code Block&lt;/h3>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-php" data-lang="php">&lt;span style="color:#66d9ef">print&lt;/span> &lt;span style="color:#e6db74">&amp;#34;hello, world&amp;#34;&lt;/span>;
@@ -72,11 +72,11 @@
 &lt;/ul>
 &lt;h2 id="other-elements">Other Elements&lt;/h2>
 &lt;h3 id="abbr-sub-sup-kbd-mark">abbr, sub, sup, kbd, mark&lt;/h3>
-&lt;p>&lt;!-- raw HTML omitted -->GIF&lt;!-- raw HTML omitted --> is a bitmap image format.&lt;/p>
-&lt;p>H&lt;!-- raw HTML omitted -->2&lt;!-- raw HTML omitted -->O&lt;/p>
-&lt;p>X&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> + Y&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted --> = Z&lt;!-- raw HTML omitted -->n&lt;!-- raw HTML omitted -->&lt;/p>
-&lt;p>Press &lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted -->CTRL&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->ALT&lt;!-- raw HTML omitted -->+&lt;!-- raw HTML omitted -->Delete&lt;!-- raw HTML omitted -->&lt;!-- raw HTML omitted --> to end the session.&lt;/p>
-&lt;p>Most &lt;!-- raw HTML omitted -->salamanders&lt;!-- raw HTML omitted --> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
+&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
+&lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
+&lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
+&lt;p>Press &lt;kbd>&lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>Delete&lt;/kbd>&lt;/kbd> to end the session.&lt;/p>
+&lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
 &lt;h3 id="cjk-radicals-supplement">CJK Radicals Supplement&lt;/h3>
 &lt;p>⺀ ⺁ ⺂ ⺃ ⺄ ⺅ ⺆ ⺇ ⺈ ⺉ ⺊ ⺋ ⺌ ⺍ ⺎ ⺏ ⺐ ⺑ ⺒ ⺓ ⺔ ⺕ ⺖ ⺗ ⺘ ⺙ ⺛ ⺜ ⺝ ⺞ ⺟ ⺠ ⺡ ⺢ ⺣ ⺤ ⺥ ⺦ ⺧ ⺨ ⺩ ⺪ ⺫ ⺬ ⺭ ⺮ ⺯ ⺰ ⺱ ⺲ ⺳ ⺴ ⺵ ⺶ ⺷ ⺸ ⺹ ⺺ ⺻ ⺼ ⺽ ⺾ ⺿ ⻀ ⻁ ⻂ ⻃ ⻄ ⻅ ⻆ ⻇ ⻈ ⻉ ⻊ ⻋ ⻌ ⻍ ⻎ ⻏ ⻐ ⻑ ⻒ ⻓ ⻔ ⻕ ⻖ ⻗ ⻘ ⻙ ⻚ ⻛ ⻜ ⻝ ⻞ ⻟ ⻠ ⻡ ⻢ ⻣ ⻤ ⻥ ⻦ ⻧ ⻨ ⻩ ⻪ ⻫ ⻬ ⻭ ⻮ ⻯ ⻰ ⻱ ⻲ ⻳&lt;/p>
 &lt;h3 id="kangxi-radicals">Kangxi Radicals&lt;/h3>
