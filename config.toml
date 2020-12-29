@@ -1,14 +1,15 @@
 baseURL = "https://note.ytkhs.me"
-DefaultContentLanguage = "ja"
+defaultContentLanguage = "ja"
 languageCode = "ja-JP"
 title = "note.ytkhs.me"
 theme = "anubis"
 publishDir = "public"
 paginate = 10
-enableRobotsTXT = true
+enableRobotsTXT = false
 enableEmoji = true
 disableHugoGeneratorInject = true
 hasCJKLanguage = true
+rssLimit = 10
 
 [menu]
 
@@ -39,3 +40,10 @@ readMore = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[outputs]
+  home = [ "RSS", "HTML"]
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "feed"
