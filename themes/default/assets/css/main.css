@@ -1,5 +1,4 @@
 :root {
-   /* light.css */ 
     --font-color: #333;
     --bg-color: #fff;
 
@@ -22,15 +21,19 @@
     --post-info-color: grey;
 }
 
+::selection {
+    background-color: var(--link-state-border-color);
+}
+
 
 /* Basic */
 html {
+    font-size: 16px;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    /* 1 */
     -ms-text-size-adjust: 100%;
-    /* 2 */
     -webkit-text-size-adjust: 100%;
-    /* 2 */
+    margin: 0 auto;
+    padding: 1rem;
 }
 
 body {
@@ -69,20 +72,7 @@ main {
 
 /* Headers */
 h1 {
-    font-size: 1.35em;
-}
-
-h2 {
-    font-size: 1.2em;
-}
-
-h2.post-title a {
-    color: var(--link-state-color);
-    border-bottom: 1px solid var(--link-state-border-color);
-}
-
-h3 {
-    font-size: 1.1em;
+    font-size: 2rem;
 }
 
 /* Links */
@@ -205,19 +195,6 @@ header a {
     color: var(--font-color);
 }
 
-header h1 {
-    font-size: 1em;
-    margin-top: 1em;
-    margin-bottom: 0;
-    font-weight: normal;
-}
-
-header h2 {
-    font-size: 1em;
-    margin: 0;
-    font-weight: normal;
-}
-
 header nav {
     margin-top: 1em;
     max-width: 100%;
@@ -229,6 +206,7 @@ header nav a {
 }
 
 .site-title {
+    margin-top: 1rem;
     white-space: nowrap;
 }
 
@@ -236,20 +214,22 @@ header nav a {
     padding-bottom: 1.5em;
 }
 
-/* Pages */
-main h1 {
-    margin-top: 1em;
-    font-weight: normal;
-    line-height: 1.1em;
-    margin-bottom: 0.5em;
-    font-weight: 600;
-}
-
 .post-short-list:first-of-type {
     margin-top: 1em;
 }
 
 /* Articles */
+
+p.post-title {
+    margin-top: 0;
+    padding-left: 1rem;
+}
+
+p.post-title a {
+    font-weight: normal;
+    color: var(--link-state-color);
+    border-bottom: 1px solid var(--link-state-border-color);
+}
 
 .post-navigation {
     background: var(--pagination-bg-color);
@@ -298,9 +278,9 @@ article:not(:last-of-type) {
 }
 
 article header h1 {
-    font-size: 1.35em;
-    line-height: 1.1em;
-    margin-bottom: 0.5em;
+    line-height: 1.2;
+    margin-top: 0.5rem;
+    margin-bottom: 5rem;
     font-weight: 600;
 }
 
@@ -312,8 +292,7 @@ article header h1 a {
 
 .post-info {
     color: var(--post-info-color);
-    font-size: 0.75em;
-    margin-top: 1em;
+    font-size: 0.8rem;
 }
 
 .post-info a {
@@ -326,7 +305,7 @@ article header h1 a {
 
 .post-short-list .post-info {
     margin-top: 0;
-    margin-bottom: 1.5em;
+    margin-top: 1.5em;
 }
 
 .post-taxonomies {
