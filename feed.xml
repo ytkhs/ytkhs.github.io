@@ -15,6 +15,8 @@
 &lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br>
 — &lt;cite>Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/cite>&lt;/p>
 &lt;/blockquote>
+&lt;h3 id="hr">hr&lt;/h3>
+&lt;hr>
 &lt;h3 id="code-block">Code Block&lt;/h3>
 &lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-php" data-lang="php">&lt;span style="color:#66d9ef">print&lt;/span> &lt;span style="color:#e6db74">&amp;#34;hello, world&amp;#34;&lt;/span>;
 &lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="headers">Headers&lt;/h3>
