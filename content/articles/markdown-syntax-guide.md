@@ -24,6 +24,8 @@ draft: false
 > — <cite>Rob Pike[^1]</cite>
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
+### hr
+---
 ### Code Block
 ```php
 print "hello, world";

@@ -34,6 +34,7 @@ html {
     -webkit-text-size-adjust: 100%;
     margin: 0 auto;
     padding: 1rem;
+    overflow-y: scroll;
 }
 
 body {
@@ -222,7 +223,6 @@ header nav a {
 
 p.post-title {
     margin-top: 0;
-    padding-left: 1rem;
 }
 
 p.post-title a {
