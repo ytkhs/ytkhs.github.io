@@ -1,15 +1,15 @@
 baseURL = "https://text.ytkhs.dev"
 defaultContentLanguage = "ja"
-languageCode = "ja-JP"
-title = "text.ytkhs.dev"
-theme = "default"
-publishDir = "public"
-paginate = 10
-enableRobotsTXT = false
-enableEmoji = true
 disableHugoGeneratorInject = true
+enableEmoji = true
+enableRobotsTXT = true
 hasCJKLanguage = true
+languageCode = "ja-JP"
+paginate = 10
+publishDir = "public"
 rssLimit = 10
+theme = "default"
+title = "text.ytkhs.dev"
 
 [menu]
 
