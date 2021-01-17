@@ -21,6 +21,7 @@ title = "text.ytkhs.dev"
 
 [params]
 author = "ytkhs"
+faviconChar = "👾"
 #description = ""
 images = [
     #'images/og-featured.png' # relative path to "static" directory
