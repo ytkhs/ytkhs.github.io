@@ -72,6 +72,13 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
+&lt;h2 id="image-shortcode">Image shortcode&lt;/h2>
+&lt;figure class="center">
+&lt;img src="https://source.unsplash.com/1600x900/?nature" width="1600" height="900"/> &lt;figcaption>
+&lt;h4>random image from unsplash&lt;/h4>&lt;p>
+&lt;a href="https://source.unsplash.com/">powered by Unsplash Source&lt;/a>&lt;/p>
+&lt;/figcaption>
+&lt;/figure>
 &lt;h2 id="other-elements">Other Elements&lt;/h2>
 &lt;h3 id="abbr-sub-sup-kbd-mark">abbr, sub, sup, kbd, mark&lt;/h3>
 &lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
