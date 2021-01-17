@@ -70,7 +70,10 @@ print "hello, world";
   * Milk
   * Cheese
 
-## Other Elements 
+## Image shortcode
+
+{{< figure src="https://source.unsplash.com/1600x900/?nature" title="random image from unsplash" class="center" width="1600" height="900" attr="powered by Unsplash Source" attrlink="https://source.unsplash.com/">}}
+## Other Elements
 
 ### abbr, sub, sup, kbd, mark
 
