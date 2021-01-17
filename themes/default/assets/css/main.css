@@ -221,8 +221,16 @@ header nav a {
 
 /* Articles */
 
+li.post-header {
+    list-style: none;
+}
+
 p.post-title {
     margin-top: 0;
+}
+
+span.post-title-emoji {
+    margin-right: 0.5em;
 }
 
 p.post-title a {

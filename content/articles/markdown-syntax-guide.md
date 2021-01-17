@@ -3,6 +3,7 @@ title: "Markdown Syntax Guide"
 date: 2020-12-09T13:37:00+09:00
 tags: []
 categories: []
+emoji: ":wrench:"
 draft: false
 ---
 
