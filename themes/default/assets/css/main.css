@@ -215,11 +215,12 @@ header nav a {
     padding-bottom: 1.5em;
 }
 
-.post-short-list:first-of-type {
-    margin-top: 1em;
-}
-
 /* Articles */
+
+ul.post-short-list {
+    margin-top: 0;
+    padding-left: 0;
+}
 
 li.post-header {
     list-style: none;

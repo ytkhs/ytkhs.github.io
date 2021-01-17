@@ -6,8 +6,8 @@
     {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
     {{ range $pages }}
         <ul class="post-short-list">
-            {{ partial "postInfo.html" . }}
             <li class="post-header">
+                {{ partial "postInfo.html" . }}
                 <p class="post-title{{ if .Params.favorite }} favorite{{end}}{{ if .Params.draft }} draft{{end}}">
                     {{if .Params.emoji }}<span class="post-title-emoji">{{emojify .Params.emoji}}</span>{{end}}
                     <a href="{{ .RelPermalink }}">{{ trim .Title " " }}</a>
