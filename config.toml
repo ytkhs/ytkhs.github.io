@@ -1,4 +1,4 @@
-baseURL = "https://text.ytkhs.dev"
+baseURL = "https://d.tkhs.dev"
 defaultContentLanguage = "ja"
 disableHugoGeneratorInject = true
 enableEmoji = true
@@ -9,7 +9,7 @@ paginate = 10
 publishDir = "public"
 rssLimit = 10
 theme = "default"
-title = "text.ytkhs.dev"
+title = "d.tkhs.dev"
 
 [menu]
 
