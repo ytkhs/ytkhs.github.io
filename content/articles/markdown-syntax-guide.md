@@ -18,12 +18,13 @@ draft: false
 > 色は匂へど　散りぬるを  
 > 我が世誰ぞ　常ならむ  
 > 有為の奥山　今日越えて  
-> 浅き夢見じ　酔ひもせず
+> 浅き夢見じ　酔ひもせず[^1]
+[^1]: [Wikipedia](https://ja.wikipedia.org/wiki/%E3%81%84%E3%82%8D%E3%81%AF%E6%AD%8C)
 
 ### Blockquote with attribution
 > Don't communicate by sharing memory, share memory by communicating.  
-> — <cite>Rob Pike[^1]</cite>
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+> — <cite>Rob Pike[^2]</cite>
+[^2]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
 
 ### hr
 ---
