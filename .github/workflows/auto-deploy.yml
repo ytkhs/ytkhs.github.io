@@ -30,7 +30,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: public
-          cname: text.ytkhs.dev
+          cname: ytkhs.github.io
           enable_jekyll: false
           keep_files: false
           force_orphan: false

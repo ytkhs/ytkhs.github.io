@@ -1,4 +1,4 @@
-baseURL = "https://text.ytkhs.dev"
+baseURL = "ytkhs.github.io"
 defaultContentLanguage = "ja"
 disableHugoGeneratorInject = true
 enableEmoji = true
