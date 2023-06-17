@@ -9,7 +9,7 @@ paginate = 10
 publishDir = "public"
 rssLimit = 10
 theme = "default"
-title = "text.ytkhs.dev"
+title = "徒花"
 
 [menu]
 
